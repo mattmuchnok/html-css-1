@@ -1,0 +1,38 @@
+body {
+    background: #231123;
+    color: #EBF2FA;
+}
+
+h1 {
+    background-color: #8367C7;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    width: 100%;
+    height: 30vh;
+    background: #2F4B26;
+}
+
+img {
+    border: 2px solid #E0CA3C;
+    border-radius: 8px;
+    margin: 20px;
+    width: 10vw;
+    height: 20vh;
+    float: right;
+}
+
+p {
+    word-wrap: break-word;
+}
+
+.center {
+    line-height: 200px;
+    height: 200px;
+    border: 10px solid;
+    text-align: center;
+}
